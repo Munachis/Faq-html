@@ -1,0 +1,40 @@
+.container{
+    text-shadow: 200px;
+    font-size: 100px;
+    background-image: image();
+    /* color: aliceblue; */
+    /* padding  */
+    /* padding-top: 02%;
+    padding-right: 01px;
+    padding-bottom: 10px;
+    padding-left: 530px; */
+
+    /* padding: 02% 01px 10px 530px; */
+
+    /* border: 20px groove red; */
+    padding: 10px 20px;
+    transition: width 2s height 2s transform 2s background-color 2s;
+border: 10px groove;
+border-radius:10px ;
+   
+}
+.wrapper{
+    background-color: azure;
+    text-align: center;
+    
+    
+}
+.wrapper:hover
+.pic{
+    border-radius: 50%;
+    margin: 30px 30px 30px 50px;
+
+   
+
+}
+.me{
+    text-align: right;
+}
+.me1{
+    text-align: right;
+}
