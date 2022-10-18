@@ -1,0 +1,328 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Verdana;
+
+}
+.global{
+    display: flex;
+    background-color: rgb(240, 239, 239);
+    height: 35px;
+    align-items: flex-start;
+    font-size: 09px;
+    padding-left: 15px;
+    padding-top: 10px;
+    gap:04px;
+    
+}
+.fg{
+    font-weight: 600;
+    font-size: x-small;
+}
+.icon{
+   color: black;
+
+}
+.ost{
+    background-color: rgb(240, 239, 239);
+    width: 90vh;
+    height: 1px;
+    
+   
+}
+.os{
+    font-size: 09px;
+    font-weight: 100;
+    display: flex;
+    color: rgb(117, 116, 116);
+    gap: 17px;
+    letter-spacing: 0.5px;
+}
+.ostg{
+    color: green;
+    font-family: sans-serif; 
+    font-weight: 600;
+    padding-bottom: 020px;
+    font-size: xx-small;
+}
+.me{
+    padding-left: 10px;
+    padding-top: 7px;
+}
+#hee{
+    border: none;
+    
+}
+.part2{
+    display: flex;
+    gap: 0px;
+
+}
+.emm{
+    padding-top: 11px;
+    padding-left: 15px;
+    font-family:  Helvetica;
+    font-size: x-small;
+    text-indent: 3px;
+}
+.em{
+    padding-top: 11px;
+
+    font-family: sans-serif;
+    font-size: x-small;
+    text-indent: 3px;
+}
+.part3{
+    padding-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.ok{
+    
+    background-color:#02ba77;
+    color: white;
+    height: 500px;
+    width: 450px;
+    font-size: 25px;
+    /* text-align: center; */
+
+}
+.df{
+    font-size: 11px;
+    letter-spacing: 1px;
+padding-left:30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.gh{
+    padding-top: 60px;
+    padding-left: 30px;
+    font-size: 50px;
+    font-weight: 600;
+}
+.mint{
+    display: flex;
+}
+.mint1{
+    padding-left: 30px;
+    padding-top: 5px;
+}
+
+.mint1 :hover{
+    cursor: pointer;
+}
+.mint2:hover{
+    cursor: pointer;
+}
+.jeho{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(83, 86, 228);
+    color: white;
+    height: 160px;
+    align-items: flex-start;
+    justify-content: center;
+    padding-left: 200px;
+    padding-top: 45px;
+    padding-bottom: 40px;
+}
+
+.gn{
+    display: inline-block;
+        background-color: white;
+        color: black;
+    /* padding-left: 200px; */
+    height:fit-content;
+    width: fit-content;
+    border-radius: 10%;
+    font-size: x-small;
+}
+
+.ging:hover{
+    cursor: pointer;
+}
+.ging{
+    padding-left: 30px;
+    font-size: small;
+    font-weight: 550;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding-top:25px ;
+}
+.gon{
+    display: inline;
+     font-size: x-small
+}
+.freecs{
+    font-size: x-large;
+    font-family: Verdana;
+    font-weight: 570;
+}
+.Leorio{
+    display: flex;
+    background-color: white;
+    height: 300px;
+    gap: 100px;
+    align-items: center;
+    /* justify-content: center; */
+    padding-left: 30px;
+}
+.main{
+    font-weight: 550;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.mai{
+    font-size: small;
+    /* letter-spacing: 1px; */
+    font-family: sans-serif;
+    color: rgb(120, 118, 118);
+}
+.killua{
+    padding-right: 60px;
+}
+.kura{
+    padding-right: 30px;
+}
+.mait{
+    font-weight: 550;
+    padding-top: 40px;
+}
+.kura  .killua   .pika   {
+    padding-top: 20px;
+}
+.part4{
+    background-color: white;
+    height: 230px;
+    display: flex;
+    gap: 60px;
+    
+}
+.hmo{
+    padding-left: 40px;
+    /* font-size: small; */
+    color: rgb(188, 188, 188);
+}
+.mnb{
+    color: #02ba77;
+    text-decoration: none;
+}
+.safe{
+    color: black;
+    font-size: small;
+    font-weight: 600;
+    font-family:sans-serif;
+}
+.sae{
+    font-size: x-small;
+    color: rgb(188, 188, 188);
+}
+.part4{
+    padding-top: 80px;
+}
+.naruto{
+    display: flex;
+     flex-direction: column;
+    background-color: #02ba77;
+    height:200px ;
+    align-items: center;
+    justify-content: center;
+}
+.saru{
+    color: white;
+
+}
+.sru{
+    color: white;
+}
+.sarutobi{
+    color: white;
+}
+.end{
+    display: flex;
+    background-color: white;
+    height: 250px;
+    gap: 80px;
+}
+
+.nezu{
+    display: flex;
+
+}
+.window1  {
+    padding-right:0px;
+    padding-top: 05px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    font-size: small;
+}
+.window2    {
+    padding-top: 05px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    font-size: small;
+}
+   .window3{
+    
+    padding-top: 05px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    font-size: small;
+}
+.meruem{
+    color: rgbrgb(114, 113, 113);
+    font-size: x-small;
+}
+.bushy{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.tanji{
+    padding-left: 20px;
+}
+.meso{
+    display: flex;
+    padding-left: 30px;
+    gap: 17px;
+}
+.gtr{
+    background-color: white;
+    width: 40vh;
+}
+.mum{
+    color: black;
+    background-color: lightgray;
+    border-radius: 25px;
+    font-size: x-small;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    width: 150px;
+    padding-top: 10px;
+    padding-left: 15px;
+    font-weight: 500;
+}
+.esc{
+    padding-top: 20px;
+    background-color: white;
+    height: 100px;
+    display: flex;
+    gap: 500px;
+    color: rgb(114, 113, 113);
+    font-size: x-small;
+}
+.grey{
+    color: rgb(114, 113, 113);
+}
+.esct{
+    color: rgb(114, 113, 113);
+}
+.mentally{
+    padding-left: 20px;
+}
