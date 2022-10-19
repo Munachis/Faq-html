@@ -326,3 +326,6 @@ padding-left:30px;
 .mentally{
     padding-left: 20px;
 }
+i:hover{
+    cursor: pointer;
+}
